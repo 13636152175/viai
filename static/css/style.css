@@ -1,0 +1,188 @@
+body {
+  padding-bottom: 0.09259rem;
+}
+
+.wrap {
+  max-width: 10rem;
+  margin: 0 auto;
+}
+.wrap .hander {
+  width: 100%;
+}
+.wrap .hander .hander-top {
+  width: 100%;
+  height: 1.11111rem;
+  background: #d43d3d;
+  display: flex;
+  align-items: center;
+}
+.wrap .hander .hander-top .logo {
+  font-size: 0.55556rem;
+  color: #FFF;
+  margin-left: 0.41667rem;
+}
+.wrap .hander .hander-top .hander-search {
+  margin-left: 0.37037rem;
+  width: 6.01852rem;
+  height: 0.55556rem;
+  border: 1px solid #FFFDEF;
+  background: #FFFFFF;
+  border-radius: 0.09259rem;
+}
+.wrap .hander .hander-top .hander-search label {
+  font-size: 0.37037rem;
+  line-height: 0.55556rem;
+  display: inline-block;
+  color: #999999;
+  margin-left: 0.18519rem;
+}
+.wrap .hander .hander-top .hander-search input {
+  width: 4.90741rem;
+  height: 96%;
+  vertical-align: top;
+  border: none;
+  margin-left: 0.18519rem;
+  outline: none;
+  font-size: 0.37037rem;
+}
+.wrap .hander .hander-bottom {
+  width: 100%;
+  height: 1.01852rem;
+  border-bottom: 0.00926rem solid gray;
+  overflow: hidden;
+}
+.wrap .hander .hander-bottom .swiper-wrapper {
+  display: flex;
+  width: 100%;
+  line-height: 1.01852rem;
+}
+.wrap .hander .hander-bottom .swiper-wrapper .swiper-slide {
+  font-size: 0.41667rem;
+  margin-left: 0.41667rem;
+}
+.wrap .hander .hander-bottom .swiper-wrapper .swiper-slide:nth-child(1) {
+  color: #e35656;
+}
+.wrap .main {
+  width: 100%;
+}
+.wrap .main hr {
+  width: 100%;
+}
+.wrap .main .main-content {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 0.37037rem;
+  margin-bottom: 0.37037rem;
+}
+.wrap .main .main-content .content-title {
+  font-size: 0.41667rem;
+  line-height: 0.69444rem;
+  font-weight: 600;
+}
+.wrap .main .main-content .content-picture {
+  display: flex;
+  margin-top: 0.37037rem;
+}
+.wrap .main .main-content .content-picture img {
+  width: 33%;
+  height: 100%;
+  padding-left: 0.01852rem;
+}
+.wrap .main .main-content .content-main {
+  margin-top: 0.37037rem;
+  font-size: 0.37037rem;
+  color: gray;
+}
+.wrap .footer {
+  display: flex;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+}
+.wrap .footer .footer-nav {
+  width: 100%;
+  font-size: 0.27778rem;
+  height: 0.92593rem;
+  background: #F4F5F6;
+}
+.wrap .footer .footer-nav ul {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.wrap .footer .footer-nav ul li {
+  padding-top: 0.09259rem;
+  height: 100%;
+  width: 25%;
+  text-align: center;
+}
+.wrap .footer .footer-nav ul li i {
+  font-size: 0.41667rem;
+}
+.wrap .video-hander {
+  width: 90%;
+  margin: 0 auto;
+  height: 0.92593rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.wrap .video-hander .video-navleft {
+  width: 90%;
+  overflow: hidden;
+}
+.wrap .video-hander .video-navleft .swiper-wrapper {
+  width: 100%;
+}
+.wrap .video-hander .video-navleft .swiper-wrapper .swiper-slide {
+  font-size: 0.41667rem;
+}
+.wrap .video-hander .video-navright {
+  width: 10%;
+}
+.wrap .video-hander .video-navright i {
+  font-size: 0.41667rem;
+  margin-left: 0.23148rem;
+}
+.wrap .video-main {
+  width: 100%;
+}
+.wrap .video-main .video-content {
+  width: 100%;
+}
+.wrap .video-main .video-content .video-maintop {
+  width: 100%;
+}
+.wrap .video-main .video-content .video-maintop img {
+  width: 100%;
+  height: 100%;
+}
+.wrap .video-main .video-content .video-mainbottom {
+  width: 100%;
+  height: 1.2963rem;
+  display: flex;
+  font-size: 0.41667rem;
+  align-items: center;
+}
+.wrap .video-main .video-content .video-mainbottom img {
+  width: 1.2963rem;
+  height: 1.2963rem;
+}
+.wrap .video-main .video-content .video-mainbottom .myic {
+  font-size: 0.41667rem;
+}
+.wrap .video-main .video-content .video-mainbottom span {
+  margin-left: 0.37037rem;
+}
+.wrap .video-main .video-content .video-mainbottom span:nth-of-type(2) {
+  margin-left: 1.38889rem;
+}
+.wrap .video-main .video-content .video-mainbottom span:nth-of-type(3) {
+  margin-left: 0.55556rem;
+}
+.wrap .video-main .video-content .video-mainbottom span:nth-of-type(4) {
+  margin-bottom: 0.23148rem;
+  margin-left: 0.55556rem;
+}
